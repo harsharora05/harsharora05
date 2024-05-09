@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Recipe Website**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [http://harsharora17.pythonanywhere.com](http://harsharora17.pythonanywhere.com)
 

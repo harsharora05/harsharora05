@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Arora</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Appliance Store In Django**
+- 🔭 I’m currently working on **Appliance Store In Django Rest Framework**
 
 - 🌱 I’m currently learning **Flutter**
 

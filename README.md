@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harsh.official995@gmail.com**
 
-- ⚡ Fun fact **I speak three languages: English, Hindi, and Code. My weekends are usually spent debugging apps, not relationships.**
+- ⚡ Fun fact **My brain runs on full-stack mode — from backend logic to stunning UIs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
